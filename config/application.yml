@@ -1,0 +1,8 @@
+server:
+  port: 8081
+datasoure:
+  host: 101.43.169.25:3306
+  port: 3306
+  database: personal
+  username: root
+  password: root
